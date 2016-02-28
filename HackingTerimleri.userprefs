@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Droid\HackingTerimleri.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.47900b8226f61100" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackingTerimleri\pages\Youtube.cs">
+    <Files>
+      <File FileName="HackingTerimleri\json\hackingTerimleri.json" Line="17" Column="68" />
+      <File FileName="HackingTerimleri\pages\Youtube.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

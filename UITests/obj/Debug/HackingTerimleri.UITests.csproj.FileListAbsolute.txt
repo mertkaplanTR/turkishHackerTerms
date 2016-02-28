@@ -1,0 +1,9 @@
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\HackingTerimleri.UITests.dll
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\HackingTerimleri.UITests.pdb
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\nunit.framework.dll
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\nunit.framework.xml
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\obj\Debug\HackingTerimleri.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\obj\Debug\HackingTerimleri.UITests.dll
+C:\Users\Unknown\Documents\Projects\HackingTerimleri\UITests\obj\Debug\HackingTerimleri.UITests.pdb

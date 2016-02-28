@@ -1,0 +1,48 @@
+﻿{
+	"_HackerTerimleri":
+	[	
+		{
+            "terim":"Hack           ",
+            "aciklama":"Orijinalinde, gerekeni ortaya çıkaran, ama iyicene yapılmayıp çabuk yapılan iş."
+        },
+        
+        {
+            "terim":"Hacker         ",
+            "aciklama":"Programlanabilir bir sistemin detaylarını keşfetmekten ve sınırlarını zorlamaktan zevk alan kişi."
+
+        },
+        
+        {
+            "terim":"Beyaz şapkalı hacker",
+            "aciklama":"Beyaz Şapkalı Hacker (Certified WhiteHat Hacker), bilişim suçları işleyen korsanların kullandıkları teknik ve yöntemleri bilen, korsanların eylemleri sırasında kullandıkları araçları ve yazılımları tanıyan, kısacası bilgisayar dünyasının kötü adamları ile aynı bilgi ve beceriye sahip, iyi niyetli güvenlik uzmanıdır."
+        },
+        
+        {
+            "terim":"Gri şapkalı hacker  ",
+            "aciklama":"Yasallık sınırında saldırı yapan, iyi veya kötü olabilen hacker'lardır."
+        },
+        
+        {
+            "terim":"Siyah şapkalı hacker ",
+            "aciklama":"Her türlü programı, siteyi veya bilgisayarı güvenlik açıklarından yararlanarak kırabilen bu en bilindik hacker'lar, sistemleri kullanılmaz hale getirir veya gizli bilgileri çalar."
+        },
+        
+          {
+            "terim":"Phreaker       ",
+            "aciklama":"Telefon ağları üzerinde çalışan, telefon sistemlerini hackleyerek bedava görüşme yapmaya çalışan kişilerdir."
+        },
+         {
+            "terim":"Yazılım korsanı",
+            "aciklama":"Yazılım korsanları bilgisayar programlarının kopya korumalarını kırarak, bu programları izinsiz olarak dağıtımına olanak sağlayıp para kazanırlar. Piyasaya korsan oyun ve program CD'lerini yazılım korsanları çıkarır."
+        },
+         {
+            "terim":"Script Kiddie ",
+            "aciklama":"Script kiddie'ler hacker'lığa özenen kişilerdir. Tam anlamıyla hacker değillerdir. Script kiddieler genellikle kişilerin e-posta veya anında mesajlaşma şifrelerini çalarlar."
+        },
+         {
+            "terim":"Lamer          ",
+            "aciklama":"Ne yaptığının tam olarak farkında olmayan, bilgisayar korsanlığı yapabilmek için yeterince bilgisi olmayan kişi. Script Kiddie benzeri kişilerdir."
+        }
+        
+	]
+}

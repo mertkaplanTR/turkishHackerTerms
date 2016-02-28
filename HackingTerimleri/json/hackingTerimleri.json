@@ -1,0 +1,35 @@
+{
+	"_HackingTerimleri":
+	[	
+		{
+            "terim" : "Buffer          overflow",
+            "aciklama" : "İki yazılım arasında veri iletişimi için ayrılmış olan bir arabelleğe boyutundan daha fazla veri konulması ile ortaya çıkan durumdur."
+        },
+        
+        {
+            "terim" :  "Cross site scripting (XSS)",
+            "aciklama" : "HTML kodlarının arasına istemci tabanlı kod gömülmesi yoluyla kullanıcının tarayıcısında istenen istemci tabanlı kodun çalıştırılabilmesi olarak tanımlanır."
+
+        },
+        
+        {
+            "terim" : "Denial of Service attack (DoS)",
+            "aciklama" : "Çoğunlukla virüs bulaştırılarak zombi haline getirilen bilgisayarların, bir sunucu bilgisayara eş zamanlı ve mümkün olduğunca çok sayıda istek göndermesi, sunucunun kapasitesinin aşılması sonucunda da hizmet veremez hale getirilmesi ilkesine dayanır."
+        },
+        
+        {
+            "terim" : "DDoS saldırısı (Distributed Denial of Service attack)",
+            "aciklama" : "Çoklu sistemlerde hedef sistemin kaynakları ya da bant genişliği istilaya uğradığı zaman oluşur, bunlar genellikle bir veya birden fazla web sunucusudur. Bu sistemler saldırganlar tarafından çeşitli yöntemler kullanılarak bağdaştırılır."
+        },
+        
+        {
+            "terim" : "Exploit          ",
+            "aciklama" : "Bir bilgisayar programıdır veya bir script, bilgisayar programlarında bulunan zayıflık veya hatalar için kullanılır."
+        },
+        
+         {
+            "terim":"Malware            ",
+            "aciklama":"Malicious software'in kısaltılmasıdır. Virüsler, trojanlar ve istenmeyen kötü niyetli kodların genel adıdır."
+        }  
+	]
+}
